@@ -1,5 +1,5 @@
 # Calculadora
-Praticando HTML e CSS 
+Praticando HTML, CSS e JavaScript.
 
 Link do Deploy: https://kelvinschio.github.io/Calculadora/
 
